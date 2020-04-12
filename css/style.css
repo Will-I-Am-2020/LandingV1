@@ -245,9 +245,14 @@ a.bouton:hover {
 }
 
 
-@media(max-width: 480px){
-    #conteneur
+/* Vos règles CSS pour les mobiles ici */
+
+@media all and (max-device-width: 480px)
+{
+   #conteneur
 {
     display: flex;
     
+}
+ 
 }
