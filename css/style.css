@@ -255,6 +255,7 @@ a.bouton:hover {
 
 body {
 		width: auto;
+		height: auto;
 		margin: 0;
 		padding: 0;
 	}
