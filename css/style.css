@@ -249,11 +249,11 @@ a.bouton:hover {
 
 
 @media(max-width: 480px){
-    body
+    section
 {
     
-    height: 300px;
-    width: 480px;
+    height: auto;
+    width: auto;
     
 }
 
