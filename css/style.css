@@ -248,7 +248,7 @@ a.bouton:hover {
 /* Vos règles CSS pour les mobiles ici */
 
 @media(max-width: 480px){
-    section{
+    body{
         display: none;
     }
 }
