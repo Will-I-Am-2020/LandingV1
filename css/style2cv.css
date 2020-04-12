@@ -86,3 +86,20 @@ a:hover /* Apparence au survol des liens */
    text-decoration: underline;
    color: #09147E;
 }
+
+
+
+/* Vos règles CSS pour les mobiles ici */
+
+
+@media(max-width: 480px){
+ 
+
+body {
+		height: auto;
+		width: auto;
+		margin: 0;
+		padding: 0;
+	}
+	
+}
