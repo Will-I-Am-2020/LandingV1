@@ -249,9 +249,9 @@ a.bouton:hover {
 
 @media all and (max-device-width: 480px)
 {
-   #conteneur
+   conteneur
 {
-    display: flex;
+    display: none;
     
 }
  
