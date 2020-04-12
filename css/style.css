@@ -253,6 +253,8 @@ a.bouton:hover {
 {
     display: flex;
     flex-direction: column;
+    height: auto;
+    width: auto;
     
 }
 }
