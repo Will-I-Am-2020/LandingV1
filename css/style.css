@@ -249,10 +249,9 @@ a.bouton:hover {
 
 
 @media(max-width: 480px){
-    #conteneur
+    body
 {
-    display: flex;
-    flex-direction: column;
+    
     height: auto;
     width: auto;
     
