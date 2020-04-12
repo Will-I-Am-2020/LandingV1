@@ -255,12 +255,13 @@ a.bouton:hover {
 {
     display: flex;
     flex-direction: column;
-    height: 200px;
+    height: auto;
+    width: auto;
 }
 
 
 body {
-		height: 200px;
+		height: auto;
 		width: auto;
 		margin: 0;
 		padding: 0;
