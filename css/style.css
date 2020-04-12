@@ -252,8 +252,10 @@ a.bouton:hover {
     body
 {
     
-    height: auto;
-    width: auto;
+    height: 300px;
+    width: 480px;
     
 }
-}
+
+
+
