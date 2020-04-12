@@ -251,6 +251,11 @@ a.bouton:hover {
 @media(max-width: 480px){
  
 
+#conteneur
+{
+    display: column;
+    
+}
 
 
 body {
