@@ -96,10 +96,7 @@ a:hover /* Apparence au survol des liens */
  
 
 body {
-		height: auto;
-		width: auto;
-		margin: 0;
-		padding: 0;
+		text-size: 10px;
 	}
 	
 }
