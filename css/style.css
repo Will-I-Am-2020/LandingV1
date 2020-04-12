@@ -245,11 +245,9 @@ a.bouton:hover {
 }
 
 
-@media screen and (max-width:640px)
-{
-  #conteneur
+@media(max-width: 480px){
+    #conteneur
 {
     display: flex;
-   flex-direction: column;
-}
+    
 }
